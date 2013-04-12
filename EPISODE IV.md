@@ -4,3 +4,4 @@ spaceships, striking from a hidden
 base, have won their first victory
 against the evil Galactic Empire.
 During the battle, Rebel spies managed
+to steal secret plans to the Empire's
